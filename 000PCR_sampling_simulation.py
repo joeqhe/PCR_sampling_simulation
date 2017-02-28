@@ -24,8 +24,8 @@ import math
 ##########################################################################################
 
 
-number_of_amplicons = 1600
-specific_amplicons_needed = 500 # <= number_of_amplicons
+number_of_amplicons = 1600000
+specific_amplicons_needed = 500000 # <= number_of_amplicons
 probability_of_failure = 0.05 # 1/probability_of_failure << simulation_repetition
 
 simulation_repetition = 1000
